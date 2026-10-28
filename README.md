@@ -237,6 +237,6 @@ This project is a practical demonstration of using SQL for real-world retail dat
 
 ---
 
-## 👤 Author – Aditya Pathak 
+## 👤 Author – Omkar Pardeshi 
 
 This project is part of my analytics portfolio and showcases core SQL capabilities for aspiring and current data analysts. Feel free to reach out for questions, feedback, or collaboration opportunities.
